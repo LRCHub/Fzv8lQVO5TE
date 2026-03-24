@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "きらり",
   "base_artist": "藤井 風",
-  "createdAt": "2025-12-13T22:20:56.925971Z",
+  "createdAt": "2026-03-24T03:35:09.300765Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -101,12 +101,29 @@
       "path": "select/12_きらり_Fujii_Kaze_藤井風.lrc"
     },
     {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kirari 「きらり」",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/13_Kirari_「きらり」_Fujii_Kaze.lrc"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "きらり",
       "artist": "藤井 風",
       "has_synced": false,
       "path": "select/pl_01_きらり_藤井_風.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "きらり",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/localdb_01_きらり_藤井_風.txt",
+      "repo_name": "hjDKSTQ8OwY"
     }
   ]
 }
